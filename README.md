@@ -13,6 +13,7 @@ A dedicated individual with a passion for database administration and coding. I 
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=040D9D28F53E985203EC8D8BEAA758A864A90CA8DA0382F82D6F7B2E856BE0C3)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=563BA7C3BCDE2599D38084F4DC3E9653BFE9C2681E912A42A9EBFD128DADAC28)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6181d638c6144b5080a459aa0786e8cd)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/10f10cd90d6b44d5b333aaae289f9ef5)
 
 ## 💻 Skill Sets
 - **Programming:** Java, JavaScript
